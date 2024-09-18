@@ -1,0 +1,20 @@
+0,2024-07-01,book,Education,670.0,Rub
+1,2023-07-01,online course,Education,1320.0,Rub
+2,2023-07-01,milk,Food,85.90,Rub
+3,2023-07-01,coffee,Food,150.50,Rub
+4,2023-07-02,laptop,Electronics,55000.0,Rub
+5,2023-07-02,pen,Stationery,15.0,Rub
+6,2023-07-02,water,Food,40.0,Rub
+7,2023-07-03,bike,Transport,15000.0,Rub
+8,2023-07-03,phone,Electronics,32000.0,Rub
+9,2023-07-03,bread,Food,35.90,Rub
+10,2023-08-01,travel card,Transport,715.90,Rub
+11,2023-08-01,ticket,Entertainment,1250.0,Rub
+12,2023-08-01,headphones,Electronics,2500.0,Rub
+13,2023-08-02,lunch,Food,500.0,Rub
+14,2023-08-02,notebook,Stationery,120.0,Rub
+15,2023-08-03,car,Transport,850000.0,Rub
+16,2023-08-03,shirt,Clothing,1500.0,Rub
+17,2023-08-04,shoes,Clothing,4500.0,Rub
+18,2023-08-04,apple,Food,120.0,Rub
+19,2023-08-05,gasoline,Transport,3000.0,Rub
